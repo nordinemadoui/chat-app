@@ -9,7 +9,7 @@ function Contact(){
     return(
         <div className="Contact">
     
-        <div>
+        
            
 
             <img className="avatar" src={avatar} alt= "profil"/>
@@ -23,7 +23,7 @@ function Contact(){
             </div>
 
 
-        </div>
+        
 
 
 
